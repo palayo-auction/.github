@@ -45,13 +45,6 @@
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
 </p>
 
-### 메시징 및 비동기 처리  
-<p>
-  <img src="https://img.shields.io/badge/WEBSOCKET-00C7E6?style=for-the-badge&logo=socketdotio&logoColor=white">
-  <img src="https://img.shields.io/badge/RABBITMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
-  <img src="https://img.shields.io/badge/LUA-000080?style=for-the-badge&logo=lua&logoColor=white">
-</p>
-
 ### 검색 및 로그 분석  
 <p>
   <img src="https://img.shields.io/badge/ELASTICSEARCH-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
@@ -64,6 +57,14 @@
   <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/GITHUB_ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
+</p>
+
+### 메시징 및 비동기 처리  
+<p>
+  <img src="https://img.shields.io/badge/WEBSOCKET-00C7E6?style=for-the-badge&logo=socketdotio&logoColor=white">
+  <img src="https://img.shields.io/badge/RABBITMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
+  <img src="https://img.shields.io/badge/LUA-000080?style=for-the-badge&logo=lua&logoColor=white">
+  <img src="https://img.shields.io/badge/QUARTZ-6E4C9F?style=for-the-badge&logo=clockify&logoColor=white">
 </p>
 
 ### 테스트 및 모니터링  
