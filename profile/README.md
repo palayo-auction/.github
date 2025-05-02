@@ -4,7 +4,7 @@
 
 ## 1. 프로젝트 소개
 
-![Image](https://github.com/user-attachments/assets/e6f15635-c24d-4a5d-b029-bf4536ed3459)
+![Image](https://github.com/user-attachments/assets/f2096aa1-19ac-494c-83d4-8d3564a8e586)
 
 <div align="center">
 
@@ -21,7 +21,7 @@
 <br>
 
 ## 2. 팀원 소개
-![Image](https://github.com/user-attachments/assets/a7db252d-4581-403d-9ebc-ee8d6b92a15f)
+![Image](https://github.com/user-attachments/assets/4f53a377-8f60-49b2-84fc-77f01a6a89b9)
 
 <br>
 
