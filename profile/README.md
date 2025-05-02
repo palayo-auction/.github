@@ -162,7 +162,7 @@
 
 아래의 링크를 클릭하여 확인하실 수 있습니다.
 
-[<strong>기술적 의사결정 바로가기</strong>](https://www.notion.so/1e7bed41c5bf8027bdd2cffe4c125add?pvs=13)
+[<strong>기술적 의사결정 바로가기</strong>](https://www.notion.so/team/1e7bed41-c5bf-816c-8691-0042106bc027/join)
 
 <br>
 
