@@ -21,7 +21,7 @@
 <br>
 
 ## 2. 팀원 소개
-![Image](https://github.com/user-attachments/assets/4f53a377-8f60-49b2-84fc-77f01a6a89b9)
+![Image](https://github.com/user-attachments/assets/6f529fa6-8b6e-4e0a-941a-cf31bd02420c)
 
 <br>
 
