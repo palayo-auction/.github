@@ -89,35 +89,21 @@
 
 ## 4. 주요 기능  
 
-<details>
-<summary>👤 <strong>회원 관리</strong></summary>
-
+#### 👤 **회원 관리**  
 - 회원가입, 로그인, 정보 수정, 탈퇴  
 - 비밀번호 변경, 닉네임 수정  
 - JWT 기반 인증 및 보안 처리  
 
-</details>
-
-<details>
-<summary>🎁 <strong>상품 관리</strong></summary>
-
+#### 🎁 **상품 관리**  
 - 상품 등록, 수정, 삭제  
 - AWS S3 이미지 업로드 및 URL 처리  
 - 판매자 상품 목록 및 상세 조회  
 
-</details>
-
-<details>
-<summary>🔎 <strong>검색 기능</strong></summary>
-
+#### 🔎 **검색 기능**  
 - Elasticsearch 기반 키워드/카테고리 검색  
 - 빠르고 정확한 검색 결과 제공  
 
-</details>
-
-<details>
-<summary>🔥 <strong>경매 시스템</strong></summary>
-
+#### 🔥 **경매 시스템**  
 - 경매 등록, 조회, 삭제 (예약/실시간 경매 지원)  
 - 경매 상태 자동 전환 (READY, ACTIVE, SUCCESS, FAILED)  
 - 즉시 낙찰 조건 만족 시 자동 낙찰  
@@ -125,43 +111,25 @@
 - Redisson Lock으로 입찰 동시성 제어  
 - WebSocket으로 실시간 입찰 내역 반영  
 
-</details>
-
-<details>
-<summary>💰 <strong>결제 및 포인트 처리</strong></summary>
-
+#### 💰 **포인트 및 결제 시스템**  
 - Toss API 결제 → 동일 금액 포인트 지급  
 - 낙찰 시 입찰가 - 보증금만큼 추가 차감  
 - Redis + Lua로 안전한 포인트 차감  
 - 포인트/결제 내역 조회  
 
-</details>
-
-<details>
-<summary>🪙 <strong>보증금 처리</strong></summary>
-
+#### 🪙 **보증금 처리**  
 - 경매당 최초 1회만 보증금 차감  
 - 입찰 시 시작가의 10%를 보증금으로 차감  
 - 보증금 이력 목록 및 상세 내역 조회  
 
-</details>
-
-<details>
-<summary>🔔 <strong>실시간 알림</strong></summary>
-
+#### 🔔 **실시간 알림**  
 - 경매 시작/마감 5분 전 알림  
 - 입찰 역전, 낙찰, 유찰 알림  
 - 찜한 경매 이벤트 알림  
 
-</details>
-
-<details>
-<summary>❤️ <strong>찜하기 기능</strong></summary>
-
+#### ❤️ **찜하기 기능**  
 - 경매 찜 등록 및 해제  
-- Redis 캐싱 기반 찜 목록/상세 조회  
-
-</details>
+- Redis 캐싱 기반 찜 목록/상세 조회
 
 <br>
 
